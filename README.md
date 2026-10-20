@@ -1,6 +1,6 @@
 # Nathan Tokarek
 
-**Data Analyst | Public Health & Outcomes Research | SQL · Python · R · Tableau**
+**Data Analyst | Public Health & Outcomes Research | SQL · SAS · Python · R · Tableau**
 
 I'm a Ph.D.-trained researcher moving into applied data analysis. For more than eight years I've designed studies, managed multi-source datasets, run the statistics, and translated the results for school, healthcare, and research audiences who needed to act on them.
 
